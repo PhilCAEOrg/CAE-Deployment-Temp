@@ -1,2 +1,0 @@
-mkdir dependencies
-cd dependencies
